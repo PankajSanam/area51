@@ -1,3 +1,7 @@
 # area51
-One of my first website which I created in mid 2012 (When I just started learning HTML and basics).
 
+I created this in 2012 when I was just learning the HTML and other basic stuff.
+
+Keeping it here just for the sake of it.
+
+So nothing important and worthy here. Just good old times when I was a novice.
